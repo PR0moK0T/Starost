@@ -1,0 +1,44 @@
+body{
+    font-size: 18px;
+      font-family: "Pacifico", fantasy;
+    }
+    h1{
+      font-size: 40px;
+      margin-top: 30px;
+      margin-bottom: 0;
+      text-align: center;
+    }
+    h2{
+      font-size: 32px;
+      margin-top: 5px;
+      padding-bottom: 20px;
+      text-align: center;
+      color: #0000ff;
+    }
+    section{
+      margin-top: 40px;
+      margin-bottom: 40px;
+      margin-left: 0;
+      margin-right: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+    section h2 {
+      padding-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      text-align: left;
+      border: none;
+    } 
+    ul li {
+      margin-bottom: 10px;
+}
+.card{
+  border: 2px solid ;
+}
+.list-group-item{
+  border: 2px;
+}
